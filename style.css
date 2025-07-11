@@ -247,7 +247,7 @@
 .sign3{
     width: 490px;
     height: 60px;
-    margin-top: 6px;
+    margin-top: 2px;
 }
 /* common-design */
 button {
@@ -267,4 +267,31 @@ button:hover {
 }
 .add-add{
     margin-top: 103px;
+}
+/* footer-style */
+.Home2{
+    display: flex;
+    gap:45px ;
+    margin-top: 20px;
+}
+
+.Logo-class{
+    color: rgba(78, 71, 255, 1);
+    font-size: 85px;
+    font-weight: bold;
+}
+.ready-to{
+    color: rgba(137, 135, 161, 1);
+}
+.last2{
+    color: rgba(137, 135, 161, 1);
+    
+}
+.footer-class{
+    color: #FFFFFF;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 104px;
+    margin-bottom: 103px;
+    gap: 20px;
 }
